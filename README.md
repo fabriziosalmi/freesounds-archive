@@ -2,8 +2,10 @@
 
 Free Underground Tekno Sound MP3 archive 
 
-The project started on 2014 and has been terminated in 2021.
-All audio files are available to listen / download in this repository.
+- **https://sound.freeundergroundtekno.org**
+
+The project started on 2014 and has been terminated in 2021. It was a pleasure to host such amazing free-tekno music and vibes. See You in the underground realm. All audio files are available to listen / download, you can find respective owners / producers data in the csv files.
+
 Please submit a PR for any edit/issue.
 
-Enjoy :P
+_Enjoy free music ^_^_
