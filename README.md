@@ -8,6 +8,8 @@ Listen and download free tekno tracks made by the underground community: **[MP3 
 
 All audio files are available to listen and/or download.
 
+Files hosted by [InfinityFree](https://www.infinityfree.com/).
+
 If You are a Free Sounds user and You want to have your files removed from the archive please contact me via [mail](mailto:fabrizio.salmi@gmail.com?subject=FreeSounds_Removal_Request) or just open an [issue](https://github.com/fabriziosalmi/freesounds-archive/issues) 
 
 Join us on [Telegram](https://t.me/freeundergroundtekno)
