@@ -4,7 +4,7 @@ The project started on 2014 and has been terminated in 2021.
 
 It was a pleasure to host such amazing free-tekno music and vibes.
 
-Listen and download +2100 free tekno tracks made by the underground community: **[MP3 archive](https://mp3.freeundergroundtekno.org/)**
+Listen and download +2100 free tekno tracks made by the underground community: **[MP3 archive](https://mp3.free-tekno.com/)**
 
 All audio files are available to listen and/or download.
 
