@@ -16,7 +16,7 @@ _It was a pleasure to host such amazing free-tekno music and vibes_ ❤️
 
 **Disclaimer**
 
-If You are a Free Sounds user and You want to have your files removed from the archive for any reason you have 2 options:
+If You want to have your files removed from the archive for any reason you have 2 options:
 
 1. Open an [issue](https://github.com/fabriziosalmi/freesounds-archive/issues)
 2. [Send me an e-mail](mailto:fabrizio.salmi@gmail.com)
