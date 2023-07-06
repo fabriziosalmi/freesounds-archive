@@ -6,9 +6,8 @@ _It was a pleasure to host such amazing free-tekno music and vibes_ ❤️
 
 **Free tekno tracks and mixes**
 
-- [+1900](https://mp3.free-tekno.com/) free tekno tracks and mixes made by artists from the underground community
-- All audio files are available to listen and/or download
-- Mp3 files hosted by [InfinityFree](https://www.infinityfree.com/)
+- Free Tekno playlist with [1790](https://mp3.freeundergroundtekno.org/freesounds.m3u) free tekno tracks uploaded by artists from the underground communityon Free Sounds platform (2014-2021)
+- All audio files are available to listen and/or download for free, personal use
 
 **Contribute**
 
